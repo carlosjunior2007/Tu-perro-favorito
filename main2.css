@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.body{
+    background-image: url("imagenes/fondo.jpg");
+    background-size: 20%;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: 30px;
+    color: #000000;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
